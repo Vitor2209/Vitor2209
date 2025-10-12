@@ -1,6 +1,6 @@
 <!-- GIF de destaque -->
 <p align="center">
-  <img src="" alt="Java animation" width="100%" />
+  <img src="./img.png" alt="Java animation" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Vitor ☕</h1>
