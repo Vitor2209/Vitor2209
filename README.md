@@ -1,7 +1,7 @@
 <!-- GIF de destaque -->
-<p align="center">
+<!--<p align="center">
   <img src="./img.png" alt="Java animation" width="100%" />
-</p>
+</p>-->
 
 <h1 align="center">Olá, eu sou o Vitor ☕</h1>
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-Sou desenvolvedor *Java Full Stack* em formação, apaixonado por backend e boas práticas de código limpo.  
+Sou desenvolvedor *Java Full Stack*, apaixonado por backend e boas práticas de código limpo.  
 Atualmente estudando *Spring Boot, JPA/Hibernate e APIs RESTful*.  
 
 🚀 Sempre buscando melhorar em:
