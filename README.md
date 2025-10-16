@@ -53,9 +53,7 @@ Atualmente estudando *Spring Boot, JPA/Hibernate e APIs RESTful*.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor2209&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor2209&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
