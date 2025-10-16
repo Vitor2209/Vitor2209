@@ -1,84 +1,102 @@
-<!-- GIF de destaque -->
-<!--<p align="center">
-  <img src="./img.png" alt="Java animation" width="100%" />
-</p>-->
-
 <h1 align="center">Olá, eu sou o Vitor ☕</h1>
 <p align="center">
-  <b>Desenvolvedor Java | Spring Boot | APIs REST | SQL</b>
+  <b>Desenvolvedor Java Backend | Spring Boot | APIs REST | SQL</b>
+</p>
+<p align="center">
+  Construindo soluções escaláveis, código limpo e testável. Sempre aprendendo e evoluindo 🚀
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitordutramelo"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2&color=2D3748" /></a>
-  <a href="https://github.com/Vitor2209"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:Vitordutra1125@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.instagram.com/dutra.mlo"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=E4405F&color=2D3748" /></a>
+  <a href="https://www.linkedin.com/in/vitordutramelo"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Vitor2209"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:Vitordutra1125@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
-Sou desenvolvedor *Java Full Stack*, apaixonado por backend e boas práticas de código limpo.  
-Atualmente estudando *Spring Boot, JPA/Hibernate e APIs RESTful*.  
-
-🚀 Sempre buscando melhorar em:
-- Design e arquitetura de aplicações Java modernas  
-- Testes automatizados (JUnit, Mockito)  
-- Integração com bancos de dados SQL  
-- Boas práticas com SOLID e Clean Code  
-
----
-
-## ☕ Tecnologias que uso
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-</p>
-
----
-
-## 📊 Minhas estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitor2209&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="Coding Animation" />
 </p>
 
+Sou **Java Backend Developer**, focado em APIs REST, microsserviços e código limpo.  
+Adoro construir soluções escaláveis, testáveis e aplicar boas práticas sempre.
+
+---
+
+## 🛠️ Skills
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor2209&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Java-90%25-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-85%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-75%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-70%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-80%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
 
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Vitor2209/gerenciamento-usuarios" target="_blank">
+<img src="./screenshots/api-usuarios.gif" width="200" alt="API de Usuários"/>
+<br/><b>API de Usuários</b>
+</a>
+<p>Tecnologias:<br/>`Java` `Spring Boot` `JPA/Hibernate` `MySQL` `JWT` `JUnit` `Swagger`</p>
+</td>
+
+<td align="center">
+<a href="https://github.com/Vitor2209/loja-pedidos" target="_blank">
+<img src="./screenshots/loja.gif" width="200" alt="Loja Virtual"/>
+<br/><b>Loja Virtual</b>
+</a>
+<p>Tecnologias:<br/>`Java` `Spring Boot` `Thymeleaf` `Spring Data JPA` `PostgreSQL`</p>
+</td>
+
+<td align="center">
+<a href="https://github.com/Vitor2209/projeto-api-rest" target="_blank">
+<img src="./screenshots/api-rest.gif" width="200" alt="API REST Demo"/>
+<br/><b>API REST Demo</b>
+</a>
+<p>Tecnologias:<br/>`Java` `Spring Boot` `REST API` `JUnit` `Postman`</p>
+</td>
+
+<td align="center">
+<a href="https://github.com/Vitor2209/sistema-estoque" target="_blank">
+<img src="./screenshots/estoque.gif" width="200" alt="Sistema Estoque"/>
+<br/><b>Sistema Estoque</b>
+</a>
+<p>Tecnologias:<br/>`Java` `Spring Boot` `JPA` `MySQL` `Thymeleaf`</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚧 Projetos em destaque
-### 🧩 [API de Gerenciamento de Usuários](https://github.com/Vitor2209/gerenciamento-usuarios)
-> API REST desenvolvida em *Spring Boot, com **JPA/Hibernate, **MySQL* e autenticação via JWT.  
-> Inclui testes com *JUnit* e documentação com *Swagger*.
-
-### 💼 [Sistema de Pedidos (Loja Virtual)](https://github.com/Vitor2209/loja-pedidos)
-> Projeto Java com *Spring Data JPA, **Thymeleaf* e *PostgreSQL*, simulando um sistema de pedidos completo.
-
----
-
-## 🧠 O que estou aprendendo agora
-- Microsserviços com Spring Cloud  
-- Integração com Kafka  
-- Deploy em containers Docker  
+## 🧠 Aprendizado Atual
+<p align="center">
+<img src="https://img.shields.io/badge/Microsserviços-SpringCloud-yellow?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-Integracao-orange?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Deploy-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+<p align="center">
+Objetivos: criar microsserviços escaláveis, integrar sistemas assíncronos via Kafka e containerizar aplicações.
+</p>
 
 ---
 
 ## 🌐 Onde me encontrar
-📫 Email: *Vitordutra1125@gmail.com*  
-💼 LinkedIn: [linkedin.com/in/vitordutramelo](https://www.linkedin.com/in/vitordutramelo)  
-📷 Instagram: [@dutra.mlo](https://www.instagram.com/dutra.mlo)
+<p align="center">
+<a href="https://www.linkedin.com/in/vitordutramelo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Vitor2209"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:Vitordutra1125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">💡 “O código limpo é como poesia que o computador entende e o programador admira.”</p>
+
+
