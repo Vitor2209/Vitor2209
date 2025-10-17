@@ -40,37 +40,49 @@ Adoro construir soluções escaláveis, testáveis e aplicar boas práticas semp
 
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/Vitor2209/gerenciamento-usuarios" target="_blank">
-<img src="./screenshots/api-usuarios.gif" width="200" alt="API de Usuários"/>
-<br/><b>API de Usuários</b>
-</a>
-<p>Tecnologias:<br/>`Java` `Spring Boot` `JPA/Hibernate` `MySQL` `JWT` `JUnit` `Swagger`</p>
+
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd1cmphbnExemM1cGtwcW41eHN6YmZ2aXlzM3F1bmtxejFwdDhjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="API Node.js"/>
+<br/><br/>
+<b>💼 API de Cadastro de Usuários — Versão 1.0.0</b>
+<p>
+API RESTful desenvolvida em <b>Node.js</b> com <b>MongoDB</b> para gerenciar informações de pessoas de forma simples e eficiente.  
+<br/><br/>
+<b>🚀 Funcionalidades:</b><br/>
+➕ Cadastrar novos funcionários<br/>
+🔍 Consultar funcionários<br/>
+✏️ Atualizar dados<br/>
+❌ Excluir registros<br/>
+⚙️ Validação e tratamento de erros personalizados<br/><br/>
+<b>🛠️ Tecnologias:</b><br/>
+`JavaScript` `Node.js` `Express.js` `MongoDB (Mongoose)` `Swagger` `Postman`
+</p>
 </td>
 
-<td align="center">
-<a href="https://github.com/Vitor2209/loja-pedidos" target="_blank">
-<img src="./screenshots/loja.gif" width="200" alt="Loja Virtual"/>
-<br/><b>Loja Virtual</b>
-</a>
-<p>Tecnologias:<br/>`Java` `Spring Boot` `Thymeleaf` `Spring Data JPA` `PostgreSQL`</p>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM2MWtwbnE1ZjhuN3I2cTF2cDVtaHRkdmJneHgwNXdzc3A5YzBhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs7JG7VfQbGqYz5C/giphy.gif" width="200" alt="Calculadora IMC"/>
+<br/><br/>
+<b>🧮 Calculadora de IMC</b>
+<p>
+Aplicação desenvolvida em <b>Java</b> que calcula o Índice de Massa Corporal (IMC) de forma simples e direta.  
+Ideal para prática de lógica de programação, entrada e saída de dados, e cálculos com tratamento de exceções.<br/><br/>
+<b>🛠️ Tecnologias:</b><br/>
+`Java` `POO` `Console` `Lógica de Programação`
+</p>
 </td>
 
-<td align="center">
-<a href="https://github.com/Vitor2209/projeto-api-rest" target="_blank">
-<img src="./screenshots/api-rest.gif" width="200" alt="API REST Demo"/>
-<br/><b>API REST Demo</b>
-</a>
-<p>Tecnologias:<br/>`Java` `Spring Boot` `REST API` `JUnit` `Postman`</p>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNoN2lsZ2p4dGNoZG51NnA1aWg2NWp5a3dnMTJ0NGlrc3pseWR1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYGb1LuZ3n7dRnO/giphy.gif" width="200" alt="Sistema de Carros"/>
+<br/><br/>
+<b>🚗 Sistema de Gerenciamento de Carros</b>
+<p>
+Aplicação backend para controle de veículos, construída em <b>Java</b> com <b>Spring Boot</b>.  
+Permite cadastrar, listar, atualizar e remover carros, aplicando boas práticas e arquitetura em camadas.<br/><br/>
+<b>🛠️ Tecnologias:</b><br/>
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API`
+</p>
 </td>
 
-<td align="center">
-<a href="https://github.com/Vitor2209/sistema-estoque" target="_blank">
-<img src="./screenshots/estoque.gif" width="200" alt="Sistema Estoque"/>
-<br/><b>Sistema Estoque</b>
-</a>
-<p>Tecnologias:<br/>`Java` `Spring Boot` `JPA` `MySQL` `Thymeleaf`</p>
-</td>
 </tr>
 </table>
 
@@ -98,5 +110,6 @@ Objetivos: criar microsserviços escaláveis, integrar sistemas assíncronos via
 ---
 
 <p align="center">💡 “O código limpo é como poesia que o computador entende e o programador admira.”</p>
+
 
 
