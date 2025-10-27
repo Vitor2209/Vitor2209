@@ -39,7 +39,7 @@ Always learning new technologies to deliver high-quality, scalable solutions.
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitor2209&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor2209&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
+ 
 </p>
 
 <p align="center">
