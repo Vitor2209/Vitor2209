@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Vitor ☕</h1>
+<h1 align="center">👋 Hello, I'm Vitor ☕</h1>
 <p align="center">
-  <b>Desenvolvedor Java Backend | Spring Boot | APIs REST | SQL</b>
+  <b>Java Backend Developer | Spring Boot | REST APIs | SQL</b>
 </p>
 <p align="center">
-  Construindo soluções escaláveis, código limpo e testável. Sempre aprendendo e evoluindo 🚀
+  Building scalable solutions, clean and testable code. Always learning and evolving 🚀
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" />
 </p>
 
-Sou **Java Backend Developer**, focado em APIs REST, microsserviços e boas práticas de código limpo.  
-Busco sempre aprender novas tecnologias e aprimorar a qualidade das minhas entregas.
+I'm a **Java Backend Developer** focused on REST APIs, microservices, and clean code practices.  
+I'm always striving to learn new technologies and improve the quality of my work.
 
 ---
 
@@ -36,49 +36,49 @@ Busco sempre aprender novas tecnologias e aprimorar a qualidade das minhas entre
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="200" alt="API Node.js"/>
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="200" alt="User API"/>
 <br/><br/>
-<b>💼 API de Cadastro de Usuários — Versão 1.0.0</b>
+<b>💼 User Registration API — Version 1.0.0</b>
 <p>
-API RESTful desenvolvida em <b>Node.js</b> com <b>MongoDB</b> para gerenciar informações de pessoas de forma simples e eficiente.  
+A RESTful API built with <b>Node.js</b> and <b>MongoDB</b> to manage user data efficiently.  
 <br/><br/>
-<b>🚀 Funcionalidades:</b><br/>
-➕ Cadastrar novos funcionários<br/>
-🔍 Consultar funcionários<br/>
-✏️ Atualizar dados<br/>
-❌ Excluir registros<br/>
-⚙️ Validação e tratamento de erros personalizados<br/><br/>
-<b>🛠️ Tecnologias:</b><br/>
+<b>🚀 Features:</b><br/>
+➕ Register new users<br/>
+🔍 Retrieve user data<br/>
+✏️ Update information<br/>
+❌ Delete records<br/>
+⚙️ Custom validation and error handling<br/><br/>
+<b>🛠️ Technologies:</b><br/>
 `JavaScript` `Node.js` `Express.js` `MongoDB (Mongoose)` `Swagger` `Postman`
 </p>
 </td>
 
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVjbG1iaXVrZjd4Nm80cjBoN3NkbjE4b2x2Y3g3N2lwMnpsZTE5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Calculadora IMC"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVjbG1iaXVrZjd4Nm80cjBoN3NkbjE4b2x2Y3g3N2lwMnpsZTE5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="BMI Calculator"/>
 <br/><br/>
-<b>🧮 Calculadora de IMC</b>
+<b>🧮 BMI Calculator</b>
 <p>
-Aplicação desenvolvida em <b>Java</b> que calcula o Índice de Massa Corporal (IMC) de forma simples e direta.  
-Ideal para prática de lógica de programação, entrada e saída de dados, e cálculos com tratamento de exceções.<br/><br/>
-<b>🛠️ Tecnologias:</b><br/>
-`Java` `POO` `Console` `Lógica de Programação`
+A simple <b>Java</b> application that calculates the Body Mass Index (BMI).  
+Created to practice programming logic, input/output operations, and exception handling.<br/><br/>
+<b>🛠️ Technologies:</b><br/>
+`Java` `OOP` `Console` `Programming Logic`
 </p>
 </td>
 
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200" alt="Sistema de Carros"/>
+<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200" alt="Car Management System"/>
 <br/><br/>
-<b>🚗 Sistema de Gerenciamento de Carros</b>
+<b>🚗 Car Management System</b>
 <p>
-Aplicação backend para controle de veículos, construída em <b>Java</b> com <b>Spring Boot</b>.  
-Permite cadastrar, listar, atualizar e remover carros, aplicando boas práticas e arquitetura em camadas.<br/><br/>
-<b>🛠️ Tecnologias:</b><br/>
+A backend application for managing cars, built with <b>Java</b> and <b>Spring Boot</b>.  
+Allows creating, reading, updating, and deleting vehicles, following clean architecture principles.<br/><br/>
+<b>🛠️ Technologies:</b><br/>
 `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API`
 </p>
 </td>
@@ -88,19 +88,19 @@ Permite cadastrar, listar, atualizar e remover carros, aplicando boas práticas 
 
 ---
 
-## 🧠 Aprendizado Atual
+## 🧠 Currently Learning
 <p align="center">
-<img src="https://img.shields.io/badge/Microsserviços-SpringCloud-4CAF50?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-Integracao-FB8C00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-SpringCloud-4CAF50?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-Integration-FB8C00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-Deploy-2196F3?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 <p align="center">
-Objetivos: criar microsserviços escaláveis, integrar sistemas assíncronos via Kafka e containerizar aplicações.
+Goals: build scalable microservices, integrate asynchronous systems using Kafka, and containerize applications.
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to Find Me
 <p align="center">
 <a href="https://www.linkedin.com/in/vitordutramelo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Vitor2209"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/></a>
@@ -109,7 +109,5 @@ Objetivos: criar microsserviços escaláveis, integrar sistemas assíncronos via
 
 ---
 
-<p align="center">💡 <i>“O código limpo é como poesia que o computador entende e o programador admira.”</i></p>
-
-
+<p align="center">💡 <i>“Clean code is like poetry that both the computer understands and the developer admires.”</i></p>
 
