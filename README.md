@@ -63,7 +63,7 @@ Below are the main technologies I use daily:
 ## 🌐 Languages
 
 * **Portuguese:** Native
-* **English:** Advanced
+* **English:** Intermediate
 
 ---
 
