@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vitor Melo
 
-### Java Backend Developer | Spring Boot | REST APIs | SQL
+### Backend Developer | Java & Node.js | REST APIs • Scalable Systems
 
 Building scalable solutions, writing **clean and testable code**. Always learning and evolving 🚀
 
