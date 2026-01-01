@@ -53,17 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor2209&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor2209&layout=compact&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vitor2209&theme=default)
-
-
----
-
 ## 📌 Highlights
 - ✅ Clean code mindset  
 - ✅ REST APIs & backend architecture  
