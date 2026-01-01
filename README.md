@@ -1,63 +1,91 @@
-👋 Hi, I'm Vitor Melo
-💻 Backend Developer | Java • Node.js • REST APIs
+<!-- ===== Header ===== -->
+<h1 align="center">Hey 👋 I'm Vitor Melo</h1>
+<h3 align="center">Backend Developer | Java • Node.js • REST APIs • Scalable Systems</h3>
 
-Welcome to my GitHub!
-I'm a backend-focused developer passionate about building scalable, reliable, and well-structured systems. I enjoy turning complex problems into clean, efficient solutions and continuously improving my skills through real-world projects.
+<p align="center">
+  <a href="https://vitor2209.github.io/MyPortfolio/"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/vitordutramelo/"><b>LinkedIn</b></a> •
+  <a href="https://github.com/Vitor2209"><b>GitHub</b></a>
+</p>
 
-🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vitor2209&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Vitor2209?style=flat-square" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Vitor2209?style=flat-square" alt="stars"/>
+</p>
 
-💻 Backend Developer focused on Java and Node.js
+---
 
-🧠 Strong foundation in RESTful APIs, clean architecture, and software design
+## 🚀 About Me
+- 🇧🇷 Brazilian developer based in London 🇬🇧  
+- 🧠 Focused on **Backend Development** (Java & Node.js)  
+- 🔥 Interested in **clean architecture**, **APIs**, **scalability**, and **performance**  
+- 📈 Always learning and shipping real projects
 
-🔧 Experience building real-world systems with authentication, business rules, and data persistence
+---
 
-📈 Always learning, improving, and challenging myself with new technologies
+## 🧰 Tech Stack
 
-🌍 Based in the UK, open to global opportunities
+### 💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-🧠 Tech Stack
-🧩 Backend
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor2209&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor2209&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vitor2209&theme=default)
 
 
+---
 
+## 📌 Highlights
+- ✅ Clean code mindset  
+- ✅ REST APIs & backend architecture  
+- ✅ Scalable systems & performance focus  
+- ✅ Continuous learning and improvement  
 
+---
 
+## 🌍 Languages
+- 🇧🇷 Portuguese: Native  
+- 🇬🇧 English: Intermediate  
 
+---
 
+## 🤝 Let’s Connect
+<p>
+  <a href="https://www.linkedin.com/in/vitordutramelo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Melo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://vitor2209.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-🗄️ Databases
-
-
-
-
-
-
-⚙️ Tools & DevOps
-
-
-
-
-
-
-
-
-🧩 What I’m Working On
-
-Building scalable backend services with Node.js and Spring Boot
-
-Improving system architecture and performance
-
-Learning more about microservices, cloud infrastructure, and clean architecture
-
-Writing cleaner, more maintainable code every day
-
-🌍 Let’s Connect
-
-💼 LinkedIn: linkedin.com/in/vitordutramelo
-
-🧑‍💻 GitHub: github.com/Vitor2209
-
-📧 Email: available upon request
-
-✨ Code with purpose. Build with intention. Keep evolving.
+✨ _Code with purpose. Build with intention. Keep evolving._
