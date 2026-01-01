@@ -1,18 +1,23 @@
-👨🏻‍💻 Vitor Melo
-Backend Developer | Java • Node.js • REST APIs
+👋 Hi, I'm Vitor Melo
+💻 Backend Developer | Java • Node.js • REST APIs
 
-🚀 Building scalable, secure, and maintainable backend systems with a strong focus on performance, clean architecture, and real-world problem solving.
+Welcome to my GitHub!
+I'm a backend-focused developer passionate about building scalable, reliable, and well-structured systems. I enjoy turning complex problems into clean, efficient solutions and continuously improving my skills through real-world projects.
 
-📌 About Me
+🚀 About Me
 
-I'm a Backend Developer passionate about building robust and scalable applications using Java and Node.js.
-I enjoy transforming complex business rules into clean, maintainable code and building APIs that are reliable, secure, and easy to integrate.
+💻 Backend Developer focused on Java and Node.js
 
-I have hands-on experience with backend architecture, authentication systems, RESTful APIs, and database design.
-Always learning, always improving — driven by curiosity and real-world challenges.
+🧠 Strong foundation in RESTful APIs, clean architecture, and software design
 
-🧰 Tech Stack
-💻 Backend
+🔧 Experience building real-world systems with authentication, business rules, and data persistence
+
+📈 Always learning, improving, and challenging myself with new technologies
+
+🌍 Based in the UK, open to global opportunities
+
+🧠 Tech Stack
+🧩 Backend
 
 
 
@@ -37,56 +42,22 @@ Always learning, always improving — driven by curiosity and real-world challen
 
 
 
-🚀 Featured Projects
-📚 Library Management System (Node.js)
+🧩 What I’m Working On
 
-A complete system for managing books, users, and loans with authentication and access control.
+Building scalable backend services with Node.js and Spring Boot
 
-Features:
+Improving system architecture and performance
 
-User authentication & authorization
+Learning more about microservices, cloud infrastructure, and clean architecture
 
-Book and loan management
+Writing cleaner, more maintainable code every day
 
-RESTful API
-
-Clean and modular architecture
-
-Tech Stack: Node.js • Express • SQLite • JWT
-
-🔗 Repository: https://github.com/Vitor2209/Sistema-Biblioteca
-
-💳 Banking System (Java)
-
-Backend system simulating real-world banking operations with strong validation rules and business logic.
-
-Features:
-
-Account creation and validation
-
-Deposit and withdrawal operations
-
-Transaction history
-
-Clean architecture and service layers
-
-Tech Stack: Java • Spring Boot • MongoDB
-
-📈 Currently Learning
-
-Advanced Spring Boot architecture
-
-System design patterns
-
-Cloud fundamentals (AWS)
-
-Clean Architecture & DDD concepts
-
-📬 Contact
-
-📧 Email: available on request
-🌍 Portfolio: vitor2209.github.io/MyPortfolio
+🌍 Let’s Connect
 
 💼 LinkedIn: linkedin.com/in/vitordutramelo
 
-✨ Always learning, always improving. Code with purpose.
+🧑‍💻 GitHub: github.com/Vitor2209
+
+📧 Email: available upon request
+
+✨ Code with purpose. Build with intention. Keep evolving.
