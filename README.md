@@ -1,6 +1,6 @@
 <!-- ===== Header ===== -->
 <h1 align="center">Hey 👋 I'm Vitor Melo</h1>
-<h3 align="center">Backend Developer | Java • Node.js • REST APIs • Scalable Systems</h3>
+<h3 align="center">Backend Developer | Node.js • REST APIs • Scalable Systems</h3>
 
 <p align="center">
   <a href="https://vitor2209.github.io/MyPortfolio/"><b>Portfolio</b></a> •
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 - 🇧🇷 Brazilian developer based in London 🇬🇧  
-- 🧠 Focused on **Backend Development** (Java & Node.js)  
+- 🧠 Focused on **Backend Development** (Node.js)  
 - 🔥 Interested in **clean architecture**, **APIs**, **scalability**, and **performance**  
 - 📈 Always learning and shipping real projects
 
